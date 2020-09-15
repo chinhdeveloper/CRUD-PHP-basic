@@ -1,2 +1,2 @@
 # CRUD-PHP-basic
-add, delete &amp; edti
+add, delete &amp; edtit enity Student
